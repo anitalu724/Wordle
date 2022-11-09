@@ -30,6 +30,15 @@
     { "char": "Backspace" }
   ],
   "solutions": [
-      { "id": 1, "word": "minus" }
+      { "id": 1, "word": "minus" },
+      { "id": 2, "word": "apple" },
+      { "id": 3, "word": "codes" },
+      { "id": 4, "word": "today" },
+      { "id": 5, "word": "funny" },
+      { "id": 6, "word": "error" },
+      { "id": 7, "word": "vital" },
+      { "id": 8, "word": "rhyme" },
+      { "id": 9, "word": "mouse" },
+      { "id": 10, "word": "zebra" },
   ]
 }
